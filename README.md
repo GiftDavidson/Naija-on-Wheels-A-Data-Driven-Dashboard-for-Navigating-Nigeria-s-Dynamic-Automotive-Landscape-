@@ -10,6 +10,11 @@ Key insights into driver preferences are uncovered, showing a nearly balanced sp
 
 This dashboard serves as an essential tool for potential car buyers, sellers, investors, and market analysts, offering data-driven insights to inform strategic decisions, identify market opportunities, and understand the complex fabric of Nigeria's automotive ecosystem.
 
+# Dashboard
+
+<img width="1198" height="557" alt="Car Dashboard" src="https://github.com/user-attachments/assets/d9573afd-333d-43f8-a764-420b47aa6436" />
+
+
 # Project Aim
 The primary aim of this project is to decode the complex preferences and economic patterns within the Nigerian used car market. By aggregating and visualizing key metrics, the dashboard serves as a strategic tool for potential car buyers, sellers, and market analysts to make informed decisions based on prevailing market trends, pricing, vehicle specifications, and consumer choices.
 
