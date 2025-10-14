@@ -34,13 +34,13 @@ How can these insights guide a strategic purchase or sale?
 # Visuals Used for Analysis
 Your dashboard effectively employs a combination of visualizations to present the data:
 
-Key Performance Indicator (KPI) Cards: Located at the top, these provide a clear, at-a-glance summary of the average vehicle's vital statistics: Price (₦21M), Mileage (14K km), Horsepower (132 hp), and Engine Size (2.2L).
+Key Performance Indicator (KPI) Cards: Located at the top, these provide a clear, at-a-glance summary of the average vehicle's vital statistics: Price (₦21M), Mileage (14K km), Horsepower (132 hp), and Engine Size (2.2k).
 
-Bar/Column Chart (Top 10 Car Models): This visualization ranks the most popular car brands, clearly showing Toyota as the dominant leader, followed by other brands like SsangYong, GMC, etc., highlighting market brand loyalty.
+Bar Chart (Top 10 Car Models): This visualization ranks the most popular car brands, clearly showing Toyota as the dominant leader, followed by other brands like SsangYong, GMC, etc., highlighting market brand loyalty.
 
-Pie Chart (Transmission Type): A classic pie chart breaks down the proportion of vehicles with Automatic (8) vs. Manual (9) transmissions, revealing a nearly balanced market preference with a slight lean towards manual gearboxes.
+Pie Chart (Transmission Type): A classic pie chart breaks down the proportion of vehicles with Automatic (18%) vs. Manual (22%) transmissions, revealing a nearly balanced market preference with a slight lean towards manual gearboxes.
 
-Treemap or Bar Chart (Car Colors): The "which color wins?" section is visualized (likely as a treemap or stacked bar chart) to display the popularity of different car colors, with White, Black, and Silver typically leading in such markets due to practicality and resale value.
+Stacked bar Chart (Car Colors): The "which color wins?" section is visualized ( stacked bar chart) to display the popularity of different car colors, with White, Black, and Silver typically leading in such markets due to practicality and resale value.
 
 # Key Features of the Dashboard
 Consolidated Market Overview: The KPIs provide a immediate snapshot of the market's core offering.
@@ -56,15 +56,15 @@ Data-Driven Decision Support: Empowers users to align their choices with mainstr
 # Tools and Process
 Data Collection: Sourced from Car45.com, a major online automotive marketplace in Nigeria, ensuring the data is real-world and relevant.
 
-Data Preparation & Analysis: The raw data was cleaned, processed, and aggregated to calculate averages and counts (e.g., average price, count of automatic cars). This was likely done using a tool like Microsoft Excel, Google Sheets, or Power BI Query Editor.
+Data Preparation & Analysis: The raw data was cleaned, processed, and aggregated to calculate averages and counts (e.g., average price, count of automatic cars). This was done using Pivot Table. 
 
-Data Visualization & Dashboard Design: The processed data was visualized and assembled into an interactive or static dashboard using business intelligence tools such as Microsoft Power BI, Tableau, or Looker Studio. The layout is organized logically, guiding the viewer from high-level metrics to specific preferences.
+Data Visualization & Dashboard Design: The processed data was visualized and assembled into an interactive or static dashboard using business intelligence tools (Excel). The layout is organized logically, guiding the viewer from high-level metrics to specific preferences.
 
 # Keywords
 Nigerian Car Market, Automotive Analytics, Data Visualization, Market Trends, Vehicle Pricing, Car Mileage, Brand Popularity, Transmission Preference, Car Color Analysis, Business Intelligence, Dashboard, Nigeria, Car45.com.
 
 # Summary
-This project successfully transforms raw data from Car45.com into an insightful and actionable dashboard titled "Naija on Wheels." It provides a comprehensive overview of the Nigerian automotive sector, quantifying the average vehicle's cost and specifications while delving deeper into the qualitative aspects of consumer choice. The visualization of top brands, transmission types, and color preferences paints a clear picture of what the market demands and offers, serving as a valuable resource for anyone involved in this vibrant economic space.
+This project successfully transforms raw data from Car45.com and inspiration from freeborn Dashboard into an insightful and actionable dashboard titled "Naija on Wheels." It provides a comprehensive overview of the Nigerian automotive sector, quantifying the average vehicle's cost and specifications while diving deeper into the qualitative aspects of consumer choice. The visualization of top brands, transmission types, and color preferences paints a clear picture of what the market demands and offers, serving as a valuable resource for anyone involved in this vibrant economic space.
 
 # Conclusion
 The analysis conclusively reveals a robust and defined market structure. Toyota emerges as the undisputed leader in brand preference, indicating a high trust in reliability and parts availability. The average car in Nigeria is priced around ₦21 million, with a relatively low average mileage of 14,000 km, suggesting a market with fairly new or well-maintained used vehicles. The near-even split between automatic and manual transmissions points to a diverse driver base with varying preferences.
