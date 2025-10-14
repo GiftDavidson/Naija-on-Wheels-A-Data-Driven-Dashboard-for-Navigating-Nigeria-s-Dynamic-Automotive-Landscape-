@@ -15,10 +15,10 @@ This dashboard serves as an essential tool for potential car buyers, sellers, in
 <img width="1198" height="557" alt="Car Dashboard" src="https://github.com/user-attachments/assets/d9573afd-333d-43f8-a764-420b47aa6436" />
 
 
-# Project Aim
+# Aim
 The primary aim of this project is to decode the complex preferences and economic patterns within the Nigerian used car market. By aggregating and visualizing key metrics, the dashboard serves as a strategic tool for potential car buyers, sellers, and market analysts to make informed decisions based on prevailing market trends, pricing, vehicle specifications, and consumer choices.
 
-# Project Questions
+# Questions
 This analysis seeks to answer the following critical questions:
 
 What are the most popular car brands and models among Nigerian buyers?
@@ -31,7 +31,7 @@ Which car colors are most favored in the market?
 
 How can these insights guide a strategic purchase or sale?
 
-# Visuals Used for Analysis
+# Visuals Used
 Your dashboard effectively employs a combination of visualizations to present the data:
 
 Key Performance Indicator (KPI) Cards: Located at the top, these provide a clear, at-a-glance summary of the average vehicle's vital statistics: Price (₦21M), Mileage (14K km), Horsepower (132 hp), and Engine Size (2.2k).
@@ -42,7 +42,7 @@ Pie Chart (Transmission Type): A classic pie chart breaks down the proportion of
 
 Stacked bar Chart (Car Colors): The "which color wins?" section is visualized ( stacked bar chart) to display the popularity of different car colors, with White, Black, and Silver typically leading in such markets due to practicality and resale value.
 
-# Key Features of the Dashboard
+# Key Features 
 Consolidated Market Overview: The KPIs provide a immediate snapshot of the market's core offering.
 
 Brand Performance Tracking: Identifies market leaders and niche players.
