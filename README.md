@@ -4,7 +4,7 @@
 
 This project presents a comprehensive analytical dashboard that dissects the dynamic and vibrant Nigerian used car market. Sourced from real-world data from Car45.com, a leading automotive marketplace, this analysis transforms raw data into a clear, visual story of what drives Nigeria's vehicle preferences.
 
-The dashboard provides an at-a-glance overview of the market's core metrics, revealing that the average vehicle is priced at ₦21 Million, has a mileage of 14,000 km, and boasts a performance spec of 132 Horsepower from a 2.2L engine. Beyond these numbers, the analysis delves into the heart of consumer behavior, identifying Toyota as the dominant and most trusted brand, followed by a diverse mix of other manufacturers.
+The dashboard provides an at-a-glance overview of the market's core metrics, revealing that the average vehicle is priced at ₦21 Million, has a mileage of 14,000 km, and boasts a performance spec of 132 Horsepower from a 2.2k engine. Beyond these numbers, the analysis delves into the heart of consumer behavior, identifying Toyota as the dominant and most trusted brand, followed by a diverse mix of other manufacturers.
 
 Key insights into driver preferences are uncovered, showing a nearly balanced split between Automatic and Manual transmissions, reflecting the varied needs of Nigerian drivers. Furthermore, the project answers the critical stylistic question of "which color wins?" by ranking the most popular vehicle colors, with practical shades like White, Black, and Silver leading the preference, crucial for understanding resale value and aesthetic trends.
 
@@ -37,7 +37,7 @@ Your dashboard effectively employs a combination of visualizations to present th
 
 Key Performance Indicator (KPI) Cards: Located at the top, these provide a clear, at-a-glance summary of the average vehicle's vital statistics: Price (₦21M), Mileage (14K km), Horsepower (132 hp), and Engine Size (2.2k).
 
-Bar Chart (Top 10 Car Models): This visualization ranks the most popular car brands, clearly showing Toyota as the dominant leader, followed by other brands like SsangYong, GMC, etc., highlighting market brand loyalty.
+Bar Chart (Top 10 Car Models): This visualization ranks the most popular car brands, clearly showing Toyota as the dominant leader, followed by other brands like Suzuki, GMC, etc., highlighting market brand loyalty.
 
 Pie Chart (Transmission Type): A classic pie chart breaks down the proportion of vehicles with Automatic (18%) vs. Manual (22%) transmissions, revealing a nearly balanced market preference with a slight lean towards manual gearboxes.
 
@@ -57,7 +57,7 @@ Data-Driven Decision Support: Empowers users to align their choices with mainstr
 # Tools and Process
 Data Collection: Sourced from Car45.com, a major online automotive marketplace in Nigeria, ensuring the data is real-world and relevant.
 
-Data Preparation & Analysis: The raw data was cleaned, processed, and aggregated to calculate averages and counts (e.g., average price, count of automatic cars). This was done using Pivot Table. 
+Data Preparation & Analysis: The raw data was cleaned, processed, and aggregated to calculate averages and counts (e.g., average price, count of automatic cars). This was done using Excel, Power Query & Pivot Table. 
 
 Data Visualization & Dashboard Design: The processed data was visualized and assembled into an interactive or static dashboard using business intelligence tools (Excel). The layout is organized logically, guiding the viewer from high-level metrics to specific preferences.
 
