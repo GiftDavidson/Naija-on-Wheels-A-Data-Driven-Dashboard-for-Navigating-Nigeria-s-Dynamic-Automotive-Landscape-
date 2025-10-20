@@ -13,7 +13,9 @@ This dashboard serves as an essential tool for potential car buyers, sellers, in
 # Dashboard
 
 
-<img width="1198" height="557" alt="Car Dashboard" src="https://github.com/user-attachments/assets/d9573afd-333d-43f8-a764-420b47aa6436" />
+![Uploading naija on wheels.png.png…]()
+
+
 
 
 # Aim
