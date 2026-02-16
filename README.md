@@ -13,7 +13,7 @@ This dashboard serves as an essential tool for potential car buyers, sellers, in
 # Dashboard
 
 
-![Uploading naija on wheels.png.png…]()
+![Uploading naija on wheels.png…]()
 
 
 
